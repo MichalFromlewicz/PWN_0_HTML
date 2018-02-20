@@ -1,0 +1,48 @@
+#container
+	{
+		width: 1000px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+#logo
+	{
+		background-color: blue;
+		color: white;
+		text-align: center;
+		padding: 15px;	
+	}
+
+#nav
+	{
+		float: left;
+		width: 120px;
+		min-height: 600px;
+		background-color: green;
+		color: yellow;
+		padding: 15px;
+	}
+
+#content
+	{
+		float: left;
+		width: 650px;
+		padding: 20px;
+	}
+
+#gallery
+	{
+		float: left;
+		width: 160px;
+		background: lightgrey;
+		min-height: 630px;
+	}
+
+#footer
+	{
+		clear: both;
+		background-color: blue;
+		color: white;
+		text-align: center;
+		padding: 15px;	
+	}
